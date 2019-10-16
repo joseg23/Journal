@@ -44,7 +44,7 @@ header nav ul li a {
 }
 
 header nav ul li span {
-	margin-right:10px;
+	margin-center:10px;
 }
 
 header nav ul li a:hover {
@@ -90,7 +90,7 @@ section {
 	}
 
 	.menu_bar span {
-		float:right;
+		float:center;
 		font-size:40px;
 	}
 }
