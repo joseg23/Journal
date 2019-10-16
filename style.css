@@ -90,7 +90,7 @@ section {
 	}
 
 	.menu_bar span {
-		float:center;
+		float:right;
 		font-size:40px;
 	}
 }
