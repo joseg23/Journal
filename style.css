@@ -33,7 +33,7 @@ header nav ul {
 }
 
 header nav ul li {
-	float:left;
+	float:center;
 }
 
 header nav ul li a {
